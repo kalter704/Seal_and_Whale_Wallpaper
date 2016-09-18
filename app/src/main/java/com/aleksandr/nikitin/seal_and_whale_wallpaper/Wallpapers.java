@@ -3,40 +3,35 @@ package com.aleksandr.nikitin.seal_and_whale_wallpaper;
 public class Wallpapers {
 
     public static int[] images = {
-
-            //R.drawable.img1,
+            R.drawable.img1,
             R.drawable.img2,
             R.drawable.img3,
             R.drawable.img4,
             R.drawable.img5,
-
-
             R.drawable.img6,
-
-
             R.drawable.img7,
             R.drawable.img8,
             R.drawable.img9,
             R.drawable.img10,
 
+            R.drawable.imgreward1,      // 10
 
             R.drawable.img11,
             R.drawable.img12,
-
-
+            R.drawable.img13,
             R.drawable.img14,
             R.drawable.img15,
 
+            R.drawable.imgreward2,      // 16
 
             R.drawable.img16,
-
-
             R.drawable.img17,
             R.drawable.img18,
+            R.drawable.img19,
+            R.drawable.img20,
+            R.drawable.img21,
 
-
-            //R.drawable.img21,
-
+            R.drawable.imgreward3,      // 23
 
             R.drawable.img22,
             R.drawable.img23,
@@ -44,22 +39,27 @@ public class Wallpapers {
             R.drawable.img25,
             R.drawable.img26,
             R.drawable.img27,
+
+            R.drawable.imgreward4,      // 30
+
             R.drawable.img28,
-
-
             R.drawable.img29,
             R.drawable.img30,
             R.drawable.img31,
             R.drawable.img32,
             R.drawable.img33,
-            //R.drawable.img34,
-            //R.drawable.img35,
+
+            R.drawable.imgreward5,      // 37
+
+            R.drawable.img34,
+            R.drawable.img35,
+            /*
             R.drawable.img36,
             R.drawable.img37,
             R.drawable.img38,
             R.drawable.img39,
             R.drawable.img40,
-            //R.drawable.img41,
+            R.drawable.img41,
             R.drawable.img42,
             R.drawable.img43,
             R.drawable.img44,
@@ -76,12 +76,12 @@ public class Wallpapers {
             R.drawable.img53,
             R.drawable.img54,
             R.drawable.img55,
-            //R.drawable.img56,
+            R.drawable.img56,
             R.drawable.img57,
 
 
             R.drawable.img58,
-            //R.drawable.img59,
+            R.drawable.img59,
             R.drawable.img60,
             R.drawable.img61,
             R.drawable.img62,
@@ -90,18 +90,21 @@ public class Wallpapers {
             R.drawable.img65,
             R.drawable.img66,
             R.drawable.img67,
+            */
 
 
             //.drawable.img68,
             //R.drawable.img69,
             //R.drawable.img70,
 
-
+            /*
             R.drawable.img71,
             R.drawable.img72,
             R.drawable.img73,
+            */
             //R.drawable.img74,
             //R.drawable.img75,
+            /*
             R.drawable.img77,
             R.drawable.img78,
             R.drawable.img79,
@@ -111,6 +114,7 @@ public class Wallpapers {
             R.drawable.img83,
             R.drawable.img84,
             R.drawable.img85,
+            */
             //R.drawable.img86,
             //R.drawable.img87,
 
@@ -217,14 +221,6 @@ public class Wallpapers {
             R.drawable.img159,
             R.drawable.img160,
             */
-
-
-            R.drawable.imgreward1,
-            R.drawable.imgreward2,
-            R.drawable.imgreward3,
-            R.drawable.imgreward4,
-            R.drawable.imgreward5,
-            R.drawable.imgreward6
 
     };
 

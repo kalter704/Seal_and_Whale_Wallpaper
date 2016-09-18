@@ -170,12 +170,11 @@ public class MainActivity extends FragmentActivity implements PageFragmentWithPr
 
         premiumWallpaper = new PremiumWallpaper(this);
         //premiumWallpaper = new PremiumWallpaper(this, Wallpapers.images.length - 3, Wallpapers.images.length - 2, Wallpapers.images.length - 1);
-        premiumWallpaper.add(Wallpapers.images.length - 6);
-        premiumWallpaper.add(Wallpapers.images.length - 5);
-        premiumWallpaper.add(Wallpapers.images.length - 4);
-        premiumWallpaper.add(Wallpapers.images.length - 3);
-        premiumWallpaper.add(Wallpapers.images.length - 2);
-        premiumWallpaper.add(Wallpapers.images.length - 1);
+        premiumWallpaper.add(10);
+        premiumWallpaper.add(16);
+        premiumWallpaper.add(23);
+        premiumWallpaper.add(30);
+        premiumWallpaper.add(37);
 
         //premiumWallpaper.setStateByNumber(Wallpapers.images.length - 3, PremiumWallpaper.CLOSED_PREMIUM_WALLPAPER);
         //premiumWallpaper.setStateByNumber(Wallpapers.images.length - 2, PremiumWallpaper.CLOSED_PREMIUM_WALLPAPER);
